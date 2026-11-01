@@ -1,4 +1,4 @@
-package ar.edu.ar.unju.fi.arquitecturas.logitrack.eurekaserver;
+package ar.edu.unju.fi.arquitecturas.logitrack.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
